@@ -37,3 +37,17 @@ a:hover {
   text-decoration: none;
   cursor: pointer;
 }
+
+.controls {
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.controls .ctr-btn {
+  background-color: aqua;
+  color: black;
+  font-size: 2rem;
+  padding: 1rem;
+  margin: 0.2rem;
+  display: inline-block;
+}
